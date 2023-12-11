@@ -12,7 +12,8 @@ a {
 h1 {
     color: white;
     font-size: 56px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-weight: 700;
     text-align: center;
     line-height: 1.07;
@@ -22,7 +23,8 @@ h1 {
 h2 {
     color: #2E2F42;
     font-size: 36px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-weight: 700;
     text-transform: capitalize;
     line-height: 1.11;
@@ -32,7 +34,8 @@ h2 {
 h3 {
     color: #2E2F42;
     font-size: 20px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -41,7 +44,8 @@ h3 {
 .body-text {
     color: #434455;
     font-size: 16px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',
+        sans-serif;
     line-height: 1.5;
     letter-spacing: -0.02em;
 }
@@ -54,7 +58,7 @@ ul {
 .logo {
     color: #4D5AE5;
     font-size: 18px;
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.17;
@@ -131,7 +135,8 @@ a[href="#studio"]:active {
 
 .footer-text {
     color: #F4F4FD;
-    font-family: Roboto;
+    font-family: 'Roboto',
+        sans-serif;
     line-height: 1.5;
     letter-spacing: -0.02em;
 }
