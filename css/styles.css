@@ -62,7 +62,7 @@ ul {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.17;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
 }
 
 .header-logo-accent {
@@ -75,7 +75,7 @@ ul {
 
 .header-link {
     color: #2E2F42;
-    font-family: Roboto;
+    font-family: "Roboto";
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: -0.02em;
@@ -93,7 +93,7 @@ ul {
 }
 
 a[href="#studio"]:active {
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 .header-contact:hover,
