@@ -1,6 +1,7 @@
 body {
-    color: #2E2F42;
-    font-family: sans-serif;
+    color: #434455;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
 }
 
 a {
@@ -11,7 +12,7 @@ a {
 h1 {
     color: white;
     font-size: 56px;
-    font-family: Roboto;
+    font-family: 'Roboto';
     font-weight: 700;
     text-align: center;
     line-height: 1.07;
@@ -19,8 +20,9 @@ h1 {
 }
 
 h2 {
+    color: #2E2F42;
     font-size: 36px;
-    font-family: Roboto;
+    font-family: 'Roboto';
     font-weight: 700;
     text-transform: capitalize;
     line-height: 1.11;
@@ -28,8 +30,9 @@ h2 {
 }
 
 h3 {
+    color: #2E2F42;
     font-size: 20px;
-    font-family: Roboto;
+    font-family: 'Roboto';
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -38,7 +41,7 @@ h3 {
 .body-text {
     color: #434455;
     font-size: 16px;
-    font-family: Roboto;
+    font-family: 'Roboto';
     line-height: 1.5;
     letter-spacing: -0.02em;
 }
@@ -51,7 +54,7 @@ ul {
 .logo {
     color: #4D5AE5;
     font-size: 18px;
-    font-family: Raleway;
+    font-family: 'Raleway';
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.17;
@@ -67,6 +70,7 @@ ul {
 }
 
 .header-link {
+    color: #2E2F42;
     font-family: Roboto;
     font-weight: 500;
     line-height: 1.5;
@@ -74,7 +78,6 @@ ul {
 }
 
 .header-contact {
-    color: #434455;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: -0.02em;
