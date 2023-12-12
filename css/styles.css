@@ -95,8 +95,8 @@ a[href="#studio"]:active {
     letter-spacing: 0.02em;
 }
 
-.header-contact:hover,
-.header-contact:focus {
+.header-address:hover,
+.header-address:focus {
     color: #404BBF;
 }
 
