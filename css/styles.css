@@ -9,7 +9,7 @@ a {
     text-decoration: none;
 }
 
-h1 {
+.hero-title {
     color: white;
     font-size: 56px;
     font-family: 'Roboto',
@@ -31,7 +31,7 @@ h2 {
     letter-spacing: 0.02em;
 }
 
-h3 {
+.text-title {
     color: #2E2F42;
     font-size: 20px;
     font-family: 'Roboto',
@@ -112,6 +112,8 @@ a[href="#studio"]:active {
     font-family: inherit;
     font-weight: 500;
     text-align: center;
+    line-height: 1.5;
+    letter-spacing: -0.04em;
     cursor: pointer;
 }
 
@@ -136,8 +138,7 @@ a[href="#studio"]:active {
 
 .footer-text {
     color: #F4F4FD;
-    font-family: 'Roboto',
-        sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.5;
     letter-spacing: -0.02em;
 }
