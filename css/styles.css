@@ -20,11 +20,11 @@ a {
     letter-spacing: 0.02em;
 }
 
-h2 {
+.section-title {
     color: #2E2F42;
     font-size: 36px;
-    font-family: 'Roboto',
-        sans-serif;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
     text-transform: capitalize;
     line-height: 1.11;
@@ -34,8 +34,7 @@ h2 {
 .text-title {
     color: #2E2F42;
     font-size: 20px;
-    font-family: 'Roboto',
-        sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -44,10 +43,9 @@ h2 {
 .body-text {
     color: #434455;
     font-size: 16px;
-    font-family: 'Roboto',
-        sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 ol,
@@ -113,7 +111,7 @@ a[href="#studio"]:active {
     font-weight: 500;
     text-align: center;
     line-height: 1.5;
-    letter-spacing: -0.04em;
+    letter-spacing: 0.04em;
     cursor: pointer;
 }
 
@@ -141,4 +139,12 @@ a[href="#studio"]:active {
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
     letter-spacing: -0.02em;
+}
+
+.portfolio-card {
+    background-color: #E7E9FC;
+}
+
+.team-card {
+    background-color: #FFFFFF;
 }
