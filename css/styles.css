@@ -76,13 +76,13 @@ ul {
     font-family: "Roboto";
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 .header-address {
     font-style: normal;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 .header-link:hover,
